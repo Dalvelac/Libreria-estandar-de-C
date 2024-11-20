@@ -1,1 +1,1 @@
-# Libreria-estandar-de-C
+# Libreria estandar de C
